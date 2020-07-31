@@ -8,7 +8,7 @@ Community is at the forefront of MCDEX. Members can participate in a number of t
 # Ready to contribute?
 Building the future takes teamwork. Want to help us? View the exciting list of bounties managed by our ambassadors, and consider where you might fit in to join us!
 
-100% Community Driven
-Technical & Non-Technical Projects
-Rewards in MCDEX
-Safeguarded by the MCDEX Ambassadors
+- 100% Community Driven
+- Technical & Non-Technical Projects
+- Rewards in MCDEX
+- Safeguarded by the MCDEX Ambassadors
